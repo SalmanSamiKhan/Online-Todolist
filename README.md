@@ -6,12 +6,12 @@ An online todolist app
 
 ## Screenshots
 
-<img src="./public/sample.jpg" alt="Logo" width="200" height="150">
+![Online-Todolist](https://raw.githubusercontent.com/SalmanSamiKhan/Online-Todolist/master/public/css/sample.jpg)
 
 
-## Demo Website
-The app is Deployed on Render <br/>
-[Demo Website ](https://keeper-grhd.onrender.com/)
+## Demo
+Deployed on Render <br/>
+[Demo](https://online-todolist.onrender.com)
 
 
 ## About
